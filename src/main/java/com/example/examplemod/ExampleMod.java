@@ -1,5 +1,6 @@
 package com.example.examplemod;
 //Testing to see if this updates
+//Testing to see if I understand how to Push the Commits
 
 import com.mojang.logging.LogUtils;
 import com.example.examplemod.block.ModBlocks;
