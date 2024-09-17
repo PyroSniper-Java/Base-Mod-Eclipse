@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "examplemod:gem"
+    },
+    "B": {
+      "item": "examplemod:custom_bone"
+    }
+  },
+  "pattern":[
+    "AAA",
+    " B ",
+    "BBB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "examplemod:wand"
+  }
+}

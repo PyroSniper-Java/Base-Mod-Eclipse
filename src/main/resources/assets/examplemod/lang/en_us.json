@@ -1,0 +1,17 @@
+{
+  "item.examplemod.gem": "Gem",
+  "item.examplemod.custom_bone": "Custom Bone",
+  "item.examplemod.wand": "Wand",
+
+  "item.examplemod.bone_in_steak": "Chicken Wing",
+
+  "item.examplemod.bone_marrow": "Bone Marrow",
+
+  "block.examplemod.gem_block": "Block of Gem",
+
+  "block.examplemod.magic_block": "Magic Block",
+
+  "creativetab.examplemod.mod_items": "Mod Items",
+  "creativetab.examplemod.mod_blocks": "Mod Blocks",
+  "creativetab.examplemod.mod_foods": "Mod Foods"
+}
